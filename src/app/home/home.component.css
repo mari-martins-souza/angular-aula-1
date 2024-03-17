@@ -1,0 +1,27 @@
+#card-fruta {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+
+#pesquisa {
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+}
+
+input {
+    border: solid 3px rgb(32, 189, 45);
+    border-radius: 7px;
+    margin-right: 10px;
+    height: 25px;
+    padding-left: 10px;
+}
+
+button {
+    border: solid 3px rgb(32, 189, 45);
+    border-radius: 7px;
+    background-color: black;
+    color: white
+}
+
